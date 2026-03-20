@@ -35,7 +35,7 @@ Built as a first FastMCP project following the [Codecademy MCP Server tutorial](
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/calendar-mcp
+git clone https://github.com/cubaseuser123/calendar-mcp
 cd calendar-mcp
 uv sync
 ```
